@@ -62,6 +62,7 @@ $ yarn lint:fix
 -   Daily Do'a from [doaharianislami.com](http://www.doaharianislami.com/2017/06/kumpulan-doa-sehari-hari-lengkap-dalam-bahasa-arab-latin-dan-artinya.html)
 -   MP3 Audio from [kemenag.go.id](https://quran.kemenag.go.id/)
 -   Tahlil from [islam.nu.or.id](https://islam.nu.or.id/post/read/107344/susunan-bacaan-tahlil-doa-arwah-lengkap-dan-terjemahannya)
+-   Al - Masurat / Dzikir Pagi Petang [rumaysho.com](https://rumaysho.com)
 
 ## Icons & Backgrounds
 
