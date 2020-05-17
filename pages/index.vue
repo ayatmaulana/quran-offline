@@ -42,6 +42,12 @@
             {{ AppConstant.TAHLIL }}
           </nuxt-link>
         </div>
+        <div class="item">
+          <nuxt-link to="/al-masurat/" class="item__link has-shadow">
+            <img src="/icon_masurat.svg">
+            {{ AppConstant.ALMASURAT }}
+          </nuxt-link>
+        </div>
       </div>
 
       <client-only>
